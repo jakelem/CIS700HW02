@@ -1,0 +1,287 @@
+{
+    "hypernyms": {
+        "branch": [],
+        "candle": [],
+        "catch": [
+            "seize.v.01",
+            "take.v.04"
+        ],
+        "crown": [],
+        "door": [
+            "movable_barrier.n.01",
+            "barrier.n.01"
+        ],
+        "east": [],
+        "eat": [
+            "consume.v.02",
+            "eat.v.02",
+            "consume.v.02"
+        ],
+        "fish": [],
+        "ghost": [],
+        "give": [],
+        "go": [],
+        "guard": [
+            "defender.n.01"
+        ],
+        "hit": [],
+        "in": [],
+        "jump": [],
+        "lamp": [],
+        "light": [
+            "burn.v.05"
+        ],
+        "north": [],
+        "off": [],
+        "on": [],
+        "out": [],
+        "pole": [
+            "rod.n.01"
+        ],
+        "princess": [],
+        "propose": [],
+        "read": [
+            "interpret.v.01"
+        ],
+        "rose": [],
+        "runes": [
+            "character.n.08",
+            "written_symbol.n.01",
+            "symbol.n.01"
+        ],
+        "sit": [],
+        "slap": [],
+        "smell": [],
+        "south": [],
+        "talk": [
+            "communicate.v.02",
+            "interact.v.01"
+        ],
+        "take": [],
+        "throne": [
+            "chair_of_state.n.01"
+        ],
+        "tree": [
+            "woody_plant.n.01"
+        ],
+        "troll": [],
+        "unlock": [
+            "open.v.01"
+        ],
+        "west": []
+    },
+    "hyponyms": {
+        "branch": [
+            "deadwood.n.01"
+        ],
+        "candle": [
+            "rushlight.n.01"
+        ],
+        "catch": [
+            "fish.v.02",
+            "hook.v.08",
+            "intercept.v.01",
+            "seize.v.06"
+        ],
+        "crown": [],
+        "door": [],
+        "east": [],
+        "eat": [
+            "devour.v.03",
+            "devour.v.04",
+            "eat_up.v.01",
+            "garbage_down.v.01",
+            "gluttonize.v.01",
+            "gobble.v.01",
+            "slurp.v.01",
+            "wolf.v.01"
+        ],
+        "fish": [],
+        "ghost": [
+            "poltergeist.n.01",
+            "revenant.n.02"
+        ],
+        "give": [
+            "accord.v.02",
+            "allow.v.03",
+            "bestow.v.02",
+            "concede.v.03",
+            "contribute.v.02",
+            "lend.v.02",
+            "offer.v.02",
+            "pay.v.01",
+            "present.v.04",
+            "provide.v.02",
+            "vest.v.02",
+            "give.v.35",
+            "feed.v.02",
+            "serve.v.05"
+        ],
+        "go": [
+            "crawl.v.01",
+            "cruise.v.02",
+            "follow.v.04",
+            "forge.v.05",
+            "glide.v.01",
+            "hurtle.v.01",
+            "pace.v.02",
+            "plow.v.03",
+            "prance.v.02",
+            "precess.v.01",
+            "push.v.09",
+            "roll.v.12",
+            "run.v.11",
+            "run.v.34",
+            "scramble.v.01",
+            "slither.v.01",
+            "speed.v.04",
+            "travel.v.04",
+            "travel.v.05",
+            "walk.v.01",
+            "weave.v.04",
+            "skitter.v.02",
+            "gallop.v.02",
+            "walk.v.08",
+            "gallivant.v.01",
+            "maunder.v.01",
+            "amble.v.01",
+            "ambulate.v.01",
+            "flounce.v.01",
+            "lollop.v.01",
+            "march.v.01",
+            "march.v.03",
+            "mince.v.02",
+            "pace.v.01",
+            "slink.v.01",
+            "stroll.v.01"
+        ],
+        "guard": [
+            "doorkeeper.n.03",
+            "watchman.n.01",
+            "lookout.n.01",
+            "patroller.n.01"
+        ],
+        "hit": [
+            "smash.v.04"
+        ],
+        "in": [],
+        "jump": [],
+        "lamp": [
+            "lantern.n.01"
+        ],
+        "light": [
+            "flare_up.v.01",
+            "kindle.v.02",
+            "light_up.v.04",
+            "light_up.v.05",
+            "reignite.v.01",
+            "kindle.v.01",
+            "rekindle.v.01"
+        ],
+        "north": [],
+        "off": [],
+        "on": [],
+        "out": [],
+        "pole": [],
+        "princess": [
+            "crown_princess.n.02",
+            "princess_royal.n.01"
+        ],
+        "propose": [],
+        "read": [
+            "decipher.v.02",
+            "skim.v.07"
+        ],
+        "rose": [],
+        "runes": [],
+        "sit": [
+            "lounge.v.01",
+            "perch.v.01",
+            "sprawl.v.01",
+            "squat.v.01",
+            "spread-eagle.v.04"
+        ],
+        "slap": [
+            "spank.n.01"
+        ],
+        "smell": [
+            "get_a_noseful.v.01",
+            "sniff.v.01",
+            "snuff.v.01"
+        ],
+        "south": [],
+        "take": [
+            "seize.v.01",
+            "seize.v.02",
+            "catch.v.04",
+            "clasp.v.04",
+            "clench.v.01",
+            "get.v.11",
+            "grab.v.05",
+            "nab.v.03",
+            "snatch.v.01"
+        ],
+        "talk": [
+            "chat_up.v.01",
+            "converse.v.01",
+            "dish_the_dirt.v.01",
+            "level.v.05",
+            "orate.v.01",
+            "pontificate.v.02",
+            "rap.v.04",
+            "spiel.v.02",
+            "talk_down.v.02",
+            "talk_turkey.v.01",
+            "vamp.v.03",
+            "argue.v.02",
+            "interview.v.01",
+            "interview.v.02",
+            "bloviate.v.01"
+        ],
+        "throne": [],
+        "tree": [],
+        "troll": [],
+        "unlock": [],
+        "west": []
+    },
+    "senses": {
+        "branch": "branch.n.02",
+        "candle": "candle.n.01",
+        "catch": "catch.v.04",
+        "crown": "crown.n.03",
+        "door": "door.n.01",
+        "east": "east.n.01",
+        "eat": "eat.v.01",
+        "fish": "fish.n.01",
+        "ghost": "ghost.n.03",
+        "give": "give.v.03",
+        "go": "travel.v.01",
+        "guard": "guard.n.01",
+        "hit": "hit.v.12",
+        "in": "in.s.02",
+        "jump": "jump.v.08",
+        "lamp": "lamp.n.01",
+        "light": "ignite.v.01",
+        "north": "north.n.05",
+        "off": "away.r.01",
+        "on": "along.r.01",
+        "out": "out.s.06",
+        "pole": "pole.n.01",
+        "princess": "princess.n.01",
+        "propose": "propose.v.05",
+        "read": "read.v.01",
+        "rose": "rose.n.01",
+        "runes": "rune.n.01",
+        "sit": "sit.v.01",
+        "slap": "smack.n.06",
+        "smell": "smell.v.01",
+        "south": "south.n.03",
+        "take": "take.v.04",
+        "talk": "talk.v.01",
+        "throne": "throne.n.01",
+        "tree": "tree.n.01",
+        "troll": "troll.n.01",
+        "unlock": "unlock.v.01",
+        "west": "west.n.02"
+    }
+}
