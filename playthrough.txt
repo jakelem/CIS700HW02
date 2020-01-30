@@ -1,0 +1,35 @@
+two possible win routes:
+
+1:
+s
+w
+you look beautiful
+take lobster
+e
+s
+in
+give lobster to witch
+wish to become frog
+out
+swim in pond
+
+
+2:
+take pills
+s
+w
+you are ugly
+take nuggets
+mix pills and nuggets
+e
+e
+take green book
+w
+s
+in
+give witch sleep nuggets
+down
+put green book on altar
+up
+out
+swim in pond
