@@ -19,6 +19,6 @@ On the other hand, if you say something nice, he gives you a slightly better rew
                     beautiful, decadent meal you've ever seen: a whole lobster covered in saffron, foie gras, 
                     and solid silver and gold leaf truffles.
 
-You can use either of these items to solve a puzzle later in the game, where you can reach the final goal through different means.
+You can use either of these items to solve a puzzle later in the game, where you can reach the final goal through different means. I think it makes the game more fun since it adds a bit more humanity to the characters and creates a more interactive, first person experience where the player can actually choose what to say to the characters in game.
 
 To account for sentiment analysis, I use the TextBlob package in the decode_command function. If no decoded command is found through word embeddings, I analyze the sentiment of the command, and if it is above or below a certain threshold a special_action is returned that represents a positive or negative communication. I then add this action to items to elicit a positive/negative response.
