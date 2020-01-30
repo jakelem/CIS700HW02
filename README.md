@@ -3,12 +3,12 @@ For my Action Castle parser, I implemented WordNet support by first taking a lis
 
 For part 3, I implemented word embedding as well in a similar fashion to my Action Castle game, along with sentiment analysis. In my original game, the kitchen contained a lone box of stale chicken nuggets. In the improved version, there is a chef in the kitchen whom the player can either insult or compliment. In the first case, the chef will unhappily hand the player the stale nuggets:
 
-&lt;derp>you're ugly
+&lt;  you're ugly
 current score:  16
 Mario looks upset, and offers you a half eaten box of chicken nuggets.
 
 On the other hand, if you say something nice, he gives you a slightly better reward:
-&lt;derp>i love you
+&lt;  i love you
 current score:  26
 With tears of pure joy in his eyes, Mario prepares you the most
                     beautiful, decadent meal you've ever seen: a whole lobster covered in saffron, foie gras, 
